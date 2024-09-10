@@ -1,8 +1,15 @@
-const mensagem = "Olá eu";
+// Arrays, objects
 
-{
-  const mensagem = "Olá mundo";
-  console.log(mensagem);
-}
+let meta = {
+  value: "Ler um livro por mês",
+  checked: false,
+  isChecked: () => {},
+};
 
-console.log(mensagem);
+console.log(meta.isChecked());
+
+// Function // Arrow Function
+
+const criarMeta = () => {};
+
+// function criarMeta() {}
