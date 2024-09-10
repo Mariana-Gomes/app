@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [x] Comentários
+- Comentários
 - Declarações de variáveis (const, let)
 - Operadores (atribuições, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -36,6 +36,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - [x] Operadores de atribuição de valor =
 - [x] Operador de concatenação +
+- [x] Operadores de comparação ==
 
 ## Estrutura de dados
 
@@ -59,9 +60,10 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - [x] While
 
-# Condicionais Switch
+# Condicionais
 
 - [x] Switch
+- [x] If/Else
 
 ## Módulos em Node.js:
 
